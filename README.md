@@ -1,7 +1,9 @@
 # final-project-machine-learning
+
 First clone the repo into your desired directory
 
 ```git clone git@github.com:saul178/final-project-machine-learning.git```
+
 Create a virtual environment and install the necessary packages from the requirements.txt
 
 ```virtualenv .venv```
