@@ -6,10 +6,11 @@
 
 - Create a virtual environment and install the necessary packages from the requirements.txt
 
-```virtualenv .venv```
-```source .venv/bin/activate```
-```pip3 install -r requirements.txt```
-
+```
+virtualenv .venv
+source .venv/bin/activate
+pip3 install -r requirements.txt
+```
 - After all packages are installed run the project
 
 ```python3 Ben_Trujillo_Saul_Gonzalez_final.py```
